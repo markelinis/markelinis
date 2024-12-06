@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Markelinis</a> 👋</h1>
 </div>
-<img src="https://imgur.com/gallery/banner-Oz9mF75.png">
+<img src="https://i.imgur.com/3G0b0ML.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/markelinis?style=social)](https://github.com/markelinis)
 
