@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Markelinis</a> 👋</h1>
+</div>
+<img src="https://imgur.com/a/mLzbG19.png">
 
-<!--
-**markelinis/markelinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/markelinis?style=social)](https://github.com/markelinis)
 
-Here are some ideas to get you started:
+## Things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📂 I am a person who is getting into the topic of development.
+- ✏️ I speak both English, Spanish and French.
+- 🔧 Learning languages ​​like PHP & PY.
+- 👑 I am the creator of @bexinetwork. [Discord Link](https://discord.gg/bexi) *(Minecraft Network)*
+<br>
+
+## What am I doing here?
+I want you to see the evolution I will have, learning languages, doing big projects, etc... Maybe I won't be of much help to you now, since I have very simple and easy codes. Trust me, there will be a great evolution in a few years.
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
