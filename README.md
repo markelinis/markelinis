@@ -16,11 +16,11 @@
 ## What am I doing here?
 I want you to see the evolution I will have, learning languages, doing big projects, etc... Maybe I won't be of much help to you now, since I have very simple and easy codes. Trust me, there will be a great evolution in a few years.
 
-## ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/markelinis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=markelinis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markelinis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
