@@ -4,8 +4,7 @@
 <img src="https://i.imgur.com/NSPzhTi.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/markelinis?style=social)](https://github.com/markelinis)
-
-## Things about me:
+##🪪 Things about me:
 
 - 📂 I am a person who is getting into the topic of development.
 - ✏️ I speak both English, Spanish and French.
@@ -13,10 +12,12 @@
 - 👑 I am the creator of @bexinetwork. [Discord Link](https://discord.gg/bexi) *(Minecraft Network)*
 <br>
 
-## What am I doing here?
+##❓ What am I doing here?
 I want you to see the evolution I will have, learning languages, doing big projects, etc... Maybe I won't be of much help to you now, since I have very simple and easy codes. Trust me, there will be a great evolution in a few years.
 
-## GitHub Analytics
+##📲 Contact
+
+##💻 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/markelinis">
