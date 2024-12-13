@@ -17,10 +17,6 @@
 
 I want you to see the evolution I will have, learning languages, doing big projects, etc... Maybe I won't be of much help to you now, since I have very simple and easy codes. Trust me, there will be a great evolution in a few years.
 
-## 📲 Contact
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1273297713542463488?hideStatus=true&hideTimestamp=true&hideBadges=true&hideActivity=true&hideSpotify=true&showDisplayName=false&hideDiscrim=true&idleMessage=This%20is%20my%20discord.%20Contact%20me!&theme=dark)](https://discord.com/users/1273297713542463488)
-
 ## 💻 GitHub Analytics
 
 <p align="center">
@@ -29,3 +25,7 @@ I want you to see the evolution I will have, learning languages, doing big proje
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markelinis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 📲 Contact
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1273297713542463488?hideStatus=true&hideTimestamp=true&hideBadges=true&hideActivity=true&hideSpotify=true&showDisplayName=false&hideDiscrim=true&idleMessage=This%20is%20my%20discord.%20Contact%20me!&theme=dark)](https://discord.com/users/1273297713542463488)
