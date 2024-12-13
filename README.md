@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">🔧 Markelinis 👋</h1>
+<h1 align="center">🔧 MARKELINIS 👋</h1>
 </div>
 <img src="https://i.imgur.com/NSPzhTi.png">
 
