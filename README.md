@@ -1,2 +1,2 @@
 <div align="center">
-<h1 align="center">markelinis.dev 🧑🏻‍🎓</h1>
+<h1 align="center">💻</h1>
