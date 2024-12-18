@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/markelinis">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=520&lines=Futuro+Desarrollador+Español.;MARKELINIS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=520&lines=¡Bienvenido+A+Mi+Perfil!;Futuro+Desarrollador">
   </a>
 </p>
 
