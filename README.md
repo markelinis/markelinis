@@ -6,8 +6,6 @@
 
 --- 
 
-<h3> 👨🏻‍💻 &nbsp;Sobre mi:</h3>
-
 *¡Hola! Soy un entusiasta de la programación y actualmente estoy aprendiendo a programar con PHP, HTML y Python. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades en estos lenguajes.*
 
 ---
