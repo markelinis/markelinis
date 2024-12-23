@@ -1,15 +1,6 @@
 
---- 
-
-*¡Hola! Soy un entusiasta de la programación y actualmente estoy aprendiendo a programar con PHP, HTML y Python. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades en estos lenguajes.*
+¡Hola! Soy un entusiasta de la programación y actualmente estoy aprendiendo a programar con PHP, HTML y Python. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades en estos lenguajes.
 
 ---
 
-<h3> 📈 &nbsp;Estadisticas: </h3>
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markelinis&theme=dark&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markelinis&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
-</div>
+La programación no se trata solo de escribir código; se trata de resolver problemas, crear algo desde cero y generar un impacto. Siempre me sorprende cómo el código puede dar vida a las ideas.
