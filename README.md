@@ -4,3 +4,4 @@
 ---
 
 *La programación no se trata solo de escribir código; se trata de resolver problemas, crear algo desde cero y generar un impacto. Siempre me sorprende cómo el código puede dar vida a las ideas.* 🧏🏻
+<h2 align="center">Todos mis codigos son privados</h2> 
