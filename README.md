@@ -1,5 +1,5 @@
 
-¡Hola! Estoy enamorado de la programación y actualmente estoy aprendiendo a programar con PHP, HTML y Python. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades en estos lenguajes.
+¡Hola, soy Markel y actualmente estoy aprendiendo a programar con PHP, HTML y Python. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades en estos lenguajes.
 
 ---
 
