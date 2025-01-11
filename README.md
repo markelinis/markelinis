@@ -1,5 +1,5 @@
 
-¡Hola, soy Markel y actualmente estoy aprendiendo a programar. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades.
+¡Hola, soy @markelinis y actualmente estoy aprendiendo a programar. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades.
 
 ---
 
